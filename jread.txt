@@ -1,0 +1,5 @@
+hwa@11:28am on 11-21-15
+
+going to use this template to work through the
+ "Responsive In-Browser Web Page Design w/HTML and CSS"
+   course from plural sight
